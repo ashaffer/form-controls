@@ -1,0 +1,23 @@
+{
+  "name": "form-controls",
+  "version": "0.1.0",
+  "description": "List of form control element names",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashaffer/form-controls"
+  },
+  "keywords": [
+    "form",
+    "controls"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashaffer/form-controls/issues"
+  },
+  "homepage": "https://github.com/ashaffer/form-controls"
+}
